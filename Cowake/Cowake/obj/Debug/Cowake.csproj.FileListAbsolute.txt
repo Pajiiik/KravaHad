@@ -1,0 +1,10 @@
+G:\PRG\Cowake\Cowake\obj\Debug\Cowake.csprojAssemblyReference.cache
+G:\PRG\Cowake\Cowake\obj\Debug\Cowake.Form1.resources
+G:\PRG\Cowake\Cowake\obj\Debug\Cowake.Properties.Resources.resources
+G:\PRG\Cowake\Cowake\obj\Debug\Cowake.csproj.GenerateResource.cache
+G:\PRG\Cowake\Cowake\obj\Debug\Cowake.csproj.CoreCompileInputs.cache
+G:\PRG\Cowake\Cowake\bin\Debug\Cowake.exe.config
+G:\PRG\Cowake\Cowake\bin\Debug\Cowake.exe
+G:\PRG\Cowake\Cowake\bin\Debug\Cowake.pdb
+G:\PRG\Cowake\Cowake\obj\Debug\Cowake.exe
+G:\PRG\Cowake\Cowake\obj\Debug\Cowake.pdb
